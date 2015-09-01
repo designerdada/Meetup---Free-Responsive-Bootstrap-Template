@@ -1,4 +1,4 @@
-# Meetup - Free-Responsive-Bootstrap-Template
+## Meetup - Free Responsive Bootstrap Template
 Meetup is a free one-page responsive template built with bootstrap.
 
 ### Article Page
